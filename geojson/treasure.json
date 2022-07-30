@@ -15,7 +15,7 @@
       "type": "Feature",
       "properties": {
         "name": "________Treasure 2________",
-        "imgname":"images/treasure/treasure1.jpg",
+        "imgname":"images/treasure/treasure2.jpg",
         "ptype": "Treasure"
       },
       "geometry": {
