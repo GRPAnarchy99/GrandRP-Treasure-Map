@@ -93,7 +93,7 @@
     map.setMaxBounds(bounds)
 
     // Load each layer from it's corresponding GeoJSON file
-    var Treasure = L.geoJson(null, {
+    var treasure = L.geoJson(null, {
       pointToLayer: function(feature, latlng) {
         //Create icon for marker
         var icn = L.icon({
