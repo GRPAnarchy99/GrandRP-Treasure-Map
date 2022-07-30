@@ -3,7 +3,7 @@
   "features": [{
       "type": "Feature",
       "properties": {
-        "name": "_____Treasure 1_____",
+        "name": "________Treasure 1________",
         "imgname":"images/treasure/treasure1.jpg",
         "ptype": "Treasure"
       },
