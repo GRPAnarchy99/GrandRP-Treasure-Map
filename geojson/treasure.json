@@ -4,7 +4,7 @@
       "type": "Feature",
       "properties": {
         "name": "_____Treasure 1_____",
-        "imgname":"images/treasure/treasure1.png",
+        "imgname":"images/treasure/treasure1.jpg",
         "ptype": "Treasure"
       },
       "geometry": {
