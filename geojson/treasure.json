@@ -33,6 +33,28 @@
         "type": "Point",
         "coordinates": [3295, 6484]
       }
+    }, {
+      "type": "Feature",
+      "properties": {
+        "name": "________Treasure 4________",
+        "imgname":"images/treasure/treasure4.jpg",
+        "ptype": "Treasure"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4042, 6956]
+      }
+    }, {
+      "type": "Feature",
+      "properties": {
+        "name": "________Treasure 5________",
+        "imgname":"images/treasure/treasure5.jpg",
+        "ptype": "Treasure"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3291, 6466]
+      }
     }
   ]
 }
