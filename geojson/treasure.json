@@ -3,13 +3,13 @@
   "features": [{
       "type": "Feature",
       "properties": {
-        "name": "Treasure 1",
-        "imgname":"images/treasure/treasure1.jpg",
+        "name": "_____Treasure 1_____",
+        "imgname":"images/treasure/treasure1.png",
         "ptype": "Treasure"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [5878, 5312]
+        "coordinates": [5312, 5878]
       }
     }, {
       "type": "Feature",
