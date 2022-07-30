@@ -9,7 +9,7 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [5312, 2313]
+        "coordinates": [2313, 5312]
       }
     }, {
       "type": "Feature",
