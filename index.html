@@ -68,7 +68,7 @@
     }
   </style>
 </head>
-<title>GTA V Interactive map by JJ Media</title>
+<title>GTA V GrandRP Treasure Map</title>
 
 <body style="background-color:#0fa8d2">
   <div id="map" style="width: 100%; height: 100%;background-color:#0fa8d2;">
@@ -93,11 +93,11 @@
     map.setMaxBounds(bounds)
 
     // Load each layer from it's corresponding GeoJSON file
-    var ammunation = L.geoJson(null, {
+    var Treasure = L.geoJson(null, {
       pointToLayer: function(feature, latlng) {
         //Create icon for marker
         var icn = L.icon({
-          iconUrl: 'icons/ammunation.png',
+          iconUrl: 'icons/treasure.png',
           iconSize: [48, 48], // size of the icon
         });
         var marker = L.marker(latlng, {
@@ -107,13 +107,13 @@
         return marker;
       }
     })
-    $.getJSON("geojson/Ammu-Nation.json", function(data) {
-      ammunation.addData(data).addTo(map);
+    $.getJSON("geojson/treasure.json", function(data) {
+      treasure.addData(data).addTo(map);
     });
 
     //Create titles for each layer with mini icons to add to the Control
     var overlay = {
-      "<img src='icons/ammunation.png'align='center'width='30' height='30' /> Ammu-Nation": ammunation
+      "<img src='icons/treasure.png'align='center'width='30' height='30' /> Treasure": treasure
     };
 
     //Create titles for each baselayer to add to the Control
