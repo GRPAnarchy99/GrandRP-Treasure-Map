@@ -14,13 +14,13 @@
     }, {
       "type": "Feature",
       "properties": {
-        "name": "Hawick Ammu-Nation",
-        "imgname":"images/ammunation/hawick.jpg",
-        "ptype": "Ammu-Nation"
+        "name": "________Treasure 2________",
+        "imgname":"images/treasure/treasure1.jpg",
+        "ptype": "Treasure"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [3921, 2638.5]
+        "coordinates": [4026, 7028]
       }
     }, {
       "type": "Feature",
