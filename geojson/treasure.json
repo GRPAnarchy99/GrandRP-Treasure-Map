@@ -319,6 +319,160 @@
         "type": "Point",
         "coordinates": [4014, 5008]
       }
+    }, {
+      "type": "Feature",
+      "properties": {
+        "name": "________Treasure 30________",
+        "imgname":"images/treasure/treasure30.jpg",
+        "ptype": "Treasure"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3136, 1015]
+      }
+    }, {
+      "type": "Feature",
+      "properties": {
+        "name": "________Treasure 31________",
+        "imgname":"images/treasure/treasure31.jpg",
+        "ptype": "Treasure"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3513, 6795]
+      }
+    }, {
+      "type": "Feature",
+      "properties": {
+        "name": "________Treasure 32________",
+        "imgname":"images/treasure/treasure32.jpg",
+        "ptype": "Treasure"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3959, 2755]
+      }
+    }, {
+      "type": "Feature",
+      "properties": {
+        "name": "________Treasure 33________",
+        "imgname":"images/treasure/treasure33.jpg",
+        "ptype": "Treasure"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2989, 2404]
+      }
+    }, {
+      "type": "Feature",
+      "properties": {
+        "name": "________Treasure 34________",
+        "imgname":"images/treasure/treasure34.jpg",
+        "ptype": "Treasure"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3404, 6154]
+      }
+    }, {
+      "type": "Feature",
+      "properties": {
+        "name": "________Treasure 35________",
+        "imgname":"images/treasure/treasure35.jpg",
+        "ptype": "Treasure"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3642, 6626]
+      }
+    }, {
+      "type": "Feature",
+      "properties": {
+        "name": "________Treasure 36________",
+        "imgname":"images/treasure/treasure36.jpg",
+        "ptype": "Treasure"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4479, 467]
+      }
+    }, {
+      "type": "Feature",
+      "properties": {
+        "name": "________Treasure 37________",
+        "imgname":"images/treasure/treasure37.jpg",
+        "ptype": "Treasure"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3942, 2046]
+      }
+    }, {
+      "type": "Feature",
+      "properties": {
+        "name": "________Treasure 38________",
+        "imgname":"images/treasure/treasure38.jpg",
+        "ptype": "Treasure"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3560, 1225]
+      }
+    }, {
+      "type": "Feature",
+      "properties": {
+        "name": "________Treasure 39________",
+        "imgname":"images/treasure/treasure39.jpg",
+        "ptype": "Treasure"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3472, 8081]
+      }
+    }, {
+      "type": "Feature",
+      "properties": {
+        "name": "________Treasure 40________",
+        "imgname":"images/treasure/treasure40.jpg",
+        "ptype": "Treasure"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4243, 4328]
+      }
+    }, {
+      "type": "Feature",
+      "properties": {
+        "name": "________Treasure 41________",
+        "imgname":"images/treasure/treasure41.jpg",
+        "ptype": "Treasure"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4614, 5534]
+      }
+    }, {
+      "type": "Feature",
+      "properties": {
+        "name": "________Treasure 42________",
+        "imgname":"images/treasure/treasure42.jpg",
+        "ptype": "Treasure"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4547, 738]
+      }
+    }, {
+      "type": "Feature",
+      "properties": {
+        "name": "________Treasure 43________",
+        "imgname":"images/treasure/treasure43.jpg",
+        "ptype": "Treasure"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4897, 5767]
+      }
     }
   ]
 }
