@@ -1188,6 +1188,83 @@
         "type": "Point",
         "coordinates": [3543, 2786]
       }
+    }, {
+      "type": "Feature",
+      "properties": {
+        "name": "________Treasure 109________",
+        "imgname":"images/treasure/treasure109.jpg",
+        "ptype": "Treasure"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4927, 5703]
+      }
+    }, {
+      "type": "Feature",
+      "properties": {
+        "name": "________Treasure 110________",
+        "imgname":"images/treasure/treasure110.jpg",
+        "ptype": "Treasure"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3129, 2191]
+      }
+    }, {
+      "type": "Feature",
+      "properties": {
+        "name": "________Treasure 111________",
+        "imgname":"images/treasure/treasure111.jpg",
+        "ptype": "Treasure"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3498, 6779]
+      }
+    }, {
+      "type": "Feature",
+      "properties": {
+        "name": "________Treasure 112________",
+        "imgname":"images/treasure/treasure112.jpg",
+        "ptype": "Treasure"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4629, 5450]
+      }
+    }, {
+      "type": "Feature",
+      "properties": {
+        "name": "________Treasure 113________",
+        "imgname":"images/treasure/treasure113.jpg",
+        "ptype": "Treasure"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3832, 2880]
+      }
+    }, {
+      "type": "Feature",
+      "properties": {
+        "name": "________Treasure 114________",
+        "imgname":"images/treasure/treasure114.jpg",
+        "ptype": "Treasure"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3634, 6976]
+      }
+    }, {
+      "type": "Feature",
+      "properties": {
+        "name": "________Treasure 115________",
+        "imgname":"images/treasure/treasure115.jpg",
+        "ptype": "Treasure"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2689, 1983]
+      }
     }
   ]
 }
