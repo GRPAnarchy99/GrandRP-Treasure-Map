@@ -1265,6 +1265,39 @@
         "type": "Point",
         "coordinates": [2689, 1983]
       }
+    }, {
+      "type": "Feature",
+      "properties": {
+        "name": "________Treasure 116________",
+        "imgname":"images/treasure/treasure116.jpg",
+        "ptype": "Treasure"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3879, 6868]
+      }
+    }, {
+      "type": "Feature",
+      "properties": {
+        "name": "________Treasure 117________",
+        "imgname":"images/treasure/treasure117.jpg",
+        "ptype": "Treasure"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4343, 1524]
+      }
+    }, {
+      "type": "Feature",
+      "properties": {
+        "name": "________Treasure 118________",
+        "imgname":"images/treasure/treasure118.jpg",
+        "ptype": "Treasure"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4041, 2358]
+      }
     }
   ]
 }
