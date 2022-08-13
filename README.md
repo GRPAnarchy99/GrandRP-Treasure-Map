@@ -14,7 +14,7 @@ Gardner created this single page application specifically to be stored and used 
 
 ## Authors
 * **Jesse Gardner** - *Creator* of original map concept - [Github](https://github.com/jgardner117)
-* **Bill Brasky** (in-game pseudonym) - *Editor* of fork specific to GrandRP Role Play servers - [Github](https://github.com/GRPAnarchy99)
+* **Bill Brasky | 26689 | GrandRP EN2 Server** (in-game pseudonym) - *Editor* of fork specific to GrandRP Role Play servers - [Github](https://github.com/GRPAnarchy99)
 
 ## Acknowledgements/Copyright information
 GTA V and all associated references, images, etc. &copy; [Rockstar Games](https://www.rockstargames.com/)
