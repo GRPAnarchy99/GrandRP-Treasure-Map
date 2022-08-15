@@ -1606,6 +1606,149 @@
         "type": "Point",
         "coordinates": [6115, 5068]
       }
+    }, {
+      "type": "Feature",
+      "properties": {
+        "name": "________Treasure 147________",
+        "imgname":"images/treasure/treasure147.jpg",
+        "ptype": "Treasure"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2664, 2820]
+      }
+    }, {
+      "type": "Feature",
+      "properties": {
+        "name": "________Treasure 148________",
+        "imgname":"images/treasure/treasure148.jpg",
+        "ptype": "Treasure"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3758, 6895]
+      }
+    }, {
+      "type": "Feature",
+      "properties": {
+        "name": "________Treasure 149________",
+        "imgname":"images/treasure/treasure149.jpg",
+        "ptype": "Treasure"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4883, 5774]
+      }
+    }, {
+      "type": "Feature",
+      "properties": {
+        "name": "________Treasure 150________",
+        "imgname":"images/treasure/treasure150.jpg",
+        "ptype": "Treasure"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2891, 1659]
+      }
+    }, {
+      "type": "Feature",
+      "properties": {
+        "name": "________Treasure 151________",
+        "imgname":"images/treasure/treasure151.jpg",
+        "ptype": "Treasure"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5205, 6089]
+      }
+    }, {
+      "type": "Feature",
+      "properties": {
+        "name": "________Treasure 152________",
+        "imgname":"images/treasure/treasure152.jpg",
+        "ptype": "Treasure"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2645, 563]
+      }
+    }, {
+      "type": "Feature",
+      "properties": {
+        "name": "________Treasure 153________",
+        "imgname":"images/treasure/treasure153.jpg",
+        "ptype": "Treasure"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2503, 2198]
+      }
+    }, {
+      "type": "Feature",
+      "properties": {
+        "name": "________Treasure 154________",
+        "imgname":"images/treasure/treasure154.jpg",
+        "ptype": "Treasure"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5391, 5119]
+      }
+    }, {
+      "type": "Feature",
+      "properties": {
+        "name": "________Treasure 155________",
+        "imgname":"images/treasure/treasure155.jpg",
+        "ptype": "Treasure"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3063, 1128]
+      }
+    }, {
+      "type": "Feature",
+      "properties": {
+        "name": "________Treasure 156________",
+        "imgname":"images/treasure/treasure156.jpg",
+        "ptype": "Treasure"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3806, 2790]
+      }
+    }, {
+      "type": "Feature",
+      "properties": {
+        "name": "________Treasure 157________",
+        "imgname":"images/treasure/treasure157.jpg",
+        "ptype": "Treasure"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5356, 5715]
+      }
+    }, {
+      "type": "Feature",
+      "properties": {
+        "name": "________Treasure 158________",
+        "imgname":"images/treasure/treasure158.jpg",
+        "ptype": "Treasure"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2897, 2204]
+      }
+    }, {
+      "type": "Feature",
+      "properties": {
+        "name": "________Treasure 159________",
+        "imgname":"images/treasure/treasure159.jpg",
+        "ptype": "Treasure"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3772, 1809]
+      }
     }
   ]
 }
