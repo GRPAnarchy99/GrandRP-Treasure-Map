@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<script src="https://kit.fontawesome.com/4b38943db0.js" crossorigin="anonymous"></script>
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.24.0/moment.min.js" crossorigin="anonymous"></script>
+		<script type="text/javascript">
+			$(document).ready(function () {
+				$.ajax({
+					url: "https://api.openweathermap.org/data/2.5/weather?lat=40.0411&lon=-86.8745&APPID=aa4b4efcef4bc448b85b1ae5da7c7bc9&units=imperial",
+					dataType: 'json'
+				}).done(function (data) {
+					let sunriseTime = moment.unix(data.sys.sunrise).format('h:mm A');
+					let sunsetTime = moment.unix(data.sys.sunset).format('h:mm A');
+					
+					$('#feelsLike').html(Math.floor(data.main.feels_like));
+					$('#temp').html(Math.floor(data.main.temp));
+					$('#sunrise').html(sunriseTime);
+					$('#sunset').html(sunsetTime);
+					$('#wind').html(Math.floor(data.wind.speed));
+					$('#humidity').html(data.main.humidity);
+					
+					switch(data.weather[0].main) {
+						case 'Thunderstorm':
+							$('#icon').addClass('fas fa-cloud-bolt');
+							break;
+						case 'Drizzle':
+							$('#icon').addClass('fas fa-cloud-rain');
+							break;
+						case 'Rain':
+							$('#icon').addClass('fas fa-cloud-showers-heavy');
+							break;
+						case 'Snow':
+							$('#icon').addClass('fas fa-snowflake');
+							break;
+						case 'Atmosphere':
+							$('#icon').addClass('fas fa-water');
+							break;
+						case 'Clouds':
+							$('#icon').addClass('fas fa-cloud');
+							break;
+						default:
+							$('#icon').addClass('fa-sun');
+					}
+				});
+				
+				$.ajax({
+					url: "https://api.openweathermap.org/data/2.5/forecast?lat=40.0411&lon=-86.8745&APPID=aa4b4efcef4bc448b85b1ae5da7c7bc9&units=imperial&cnt=1",
+					dataType: 'json'
+				}).done(function (data2) {
+					$('#pop').html((data2.list[0].pop)*100);
+				});
+				
+			});
+		</script>
+	</head>
+	<body style="margin:0px;">
+		<div align="middle" style="font-family: Roboto,Helvetica Neue,sans-serif">
+			<span style="font-size:1em">Crawfordsville</span><br/>
+			<span style="font-size:0.8em">feels like <span id="feelsLike"></span>&deg;</span><br/>
+			<div style="font-size:1.5em; padding:5px;"><i id="icon" class="fas"></i> <span id="temp"></span>&deg;</div>
+			<span style="font-size:0.8em"><span id="sunrise"></span> <i class="fas fa-sun"></i> <span id="sunset"></span></span></br/>
+			<i class="fas fa-umbrella"></i> <span id="pop"></span>% <i class="fas fa-wind"></i> <span id="wind"></span>mph <i class="fas fa-droplet"></i> <span id="humidity"></span>%
+		</div>
+	</body>
+</html>
