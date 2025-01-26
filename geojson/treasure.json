@@ -3267,6 +3267,28 @@
         "type": "Point",
         "coordinates": [3935, 7267]
       }
+	 }, {
+      "type": "Feature",
+      "properties": {
+        "name": "________Treasure 298________",
+        "imgname":"images/treasure/treasure298.jpg",
+        "ptype": "Treasure"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3640, 7267]
+      }
+	 }, {
+      "type": "Feature",
+      "properties": {
+        "name": "________Treasure 299________",
+        "imgname":"images/treasure/treasure299.jpg",
+        "ptype": "Treasure"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2778, 1988]
+      }
     }
   ]
 }
