@@ -3256,6 +3256,17 @@
         "type": "Point",
         "coordinates": [5387, 5754]
       }
+	 }, {
+      "type": "Feature",
+      "properties": {
+        "name": "________Treasure 297________",
+        "imgname":"images/treasure/treasure297.jpg",
+        "ptype": "Treasure"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3935, 7267]
+      }
     }
   ]
 }
