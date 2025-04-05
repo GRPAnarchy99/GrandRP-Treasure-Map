@@ -3288,6 +3288,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [2778, 1988]
+	      	 }, {
+      "type": "Feature",
+      "properties": {
+        "name": "________Treasure 300________",
+        "imgname":"images/treasure/treasure300.jpg",
+        "ptype": "Treasure"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3789, 6936]
       }
     }
   ]
